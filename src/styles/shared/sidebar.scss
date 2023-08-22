@@ -1,0 +1,18 @@
+.sidebar {
+  height: 100vh;
+  color: rgba(255, 255, 255, 0.65);
+  background-color: #001529;
+
+  .sidebar-logo {
+    padding: 27px 0;
+    border-bottom: 1px solid #323232;
+    h1 {
+      color: #fc0;
+      text-align: center;
+      font-size: 30px;
+      font-weight: 800;
+      margin: 0px;
+      line-height: 0;
+    }
+  }
+}
